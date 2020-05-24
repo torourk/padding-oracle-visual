@@ -1,0 +1,17 @@
+[package]
+name = "padding-oracle-visual"
+version = "0.1.0"
+authors = ["Tiernan O'Rourke <torourk@gmu.edu>"]
+license = "MIT OR Apache-2.0"
+edition = "2018"
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+aes = "0.3.2"
+block-modes = "0.3.3"
+sha2 = "0.8.2"
+hkdf = "0.8.0"
+colored = "1.9.2"
+rand = "0.7"
