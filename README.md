@@ -2,7 +2,7 @@
 
 An implementation of the [padding oracle attack](https://en.wikipedia.org/wiki/Padding_oracle_attack) for AES-128 in CBC mode.
 
-<img src="preview.gif" alt="preview" style="width: 75%; max-width: 500px;">
+<img src="preview.gif" alt="preview" width=75%>
 
 ## Running
 
