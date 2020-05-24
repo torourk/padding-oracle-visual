@@ -1,6 +1,6 @@
 # padding-oracle-visual
 
-An implementation of a [padding oracle attack](https://en.wikipedia.org/wiki/Padding_oracle_attack) for AES-128 in CBC mode.
+An implementation of the [padding oracle attack](https://en.wikipedia.org/wiki/Padding_oracle_attack) for AES-128 in CBC mode.
 
 ## Running
 
